@@ -92,7 +92,7 @@ I would appreciate if this code helped you build yours password generator to men
 
 ## License
 
-I want it simple and permissive. That's why I am using [MIT License](https://github.com/dpertsin/password-generator/blob/main/LICENSE).
+I want it simple and permissive. That's why I am using [MIT License](https://github.com/dpertsin/password-generator/blob/master/LICENSE).
 The MIT License is short and to the point. It lets people do almost anything they want with your project, like making and distributing closed source versions.
 
 ## Enjoy!
